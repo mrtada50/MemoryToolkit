@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.MemoryToolkit" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
